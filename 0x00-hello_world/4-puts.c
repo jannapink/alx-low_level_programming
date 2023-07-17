@@ -2,7 +2,7 @@
 /**
  * main - A progrmm that prints a line with puts functio
 n
- * Retuen: 0 (Success)
+ * Return: 0 (Success)
  */
 int main(void)
 {
